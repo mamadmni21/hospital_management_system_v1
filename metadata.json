@@ -1,0 +1,5 @@
+{
+  "name": "PulsePoint HMS",
+  "description": "A high-performance Hospital Management System with polymorphic inventory tracking and real-time medical record management.",
+  "requestFramePermissions": []
+}
